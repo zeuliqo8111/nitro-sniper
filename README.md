@@ -10,7 +10,7 @@
 
 <p align="center">
    A lightweight, fast and efficient discord nitro sniper, giveaway sniper & invite sniper. <br />
-   If you're forking this and enjoy my projects, consider leaving a star on the repo with the "Star" button in the top right :)
+   :warning: I recommend turning off the invite sniper for now as it will lock your account behind a phone/email verification screen or get it terminated.
    <img src="https://media.wtf/11603354" />
 </p>
 
@@ -193,3 +193,5 @@ https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-I
 - This is technically a self-bot: mentioning this in a discord chat is enough to make your account reportable to Trust & Safety.
 - Running more than one instance or different snipers is an easy way to get your account deactivated.
 - Before using, consider the moral implications of stealing gifts from communities you have nothing to do with.
+
+> If you enjoy my projects, please consider starring the repo :)
