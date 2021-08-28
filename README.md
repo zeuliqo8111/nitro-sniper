@@ -11,7 +11,11 @@
 <p align="center">
    A lightweight, fast and efficient discord nitro sniper, giveaway sniper & invite sniper. <br />
    
-   <b>:warning: I recommend turning off the invite sniper for now as it will lock your account behind a phone/email verification screen or get it terminated.</b>
+   <b>
+     <p align="center">
+        :warning: I recommend turning off the invite sniper for now as it will lock your account behind a phone/email verification screen or get it terminated.
+     </p> 
+   </b>
    <img src="https://media.wtf/11603354" />
 </p>
 
@@ -50,7 +54,7 @@
 #### Heroku (recommended)
 Click on the image below and login to continue the setup.<br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku-hate-club/p38sy9f90vBNM/tree/main)  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku-hate-club/11qz2hUNlYUVl/tree/main)  
 
 Make sure you go to your app -> Configure dynos/Resources and turn off `web` and start `worker`.<br>
 
