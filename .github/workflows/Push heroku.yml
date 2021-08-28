@@ -49,7 +49,7 @@ jobs:
           rm -rf .env
           cd ..
 
-      - name: Delete other repos, commit changes & push
+      - name: Delete other repos & create repo
         run: |
           cd nitro-sniper
           echo ${{ secrets.GH_TOKEN }} >> token.txt
@@ -58,6 +58,12 @@ jobs:
           gh repo create heroku-hate-club/${{ env.repoName }} --public -y
           rm -rf ${{ env.repoName }}
           rm -rf token.txt
+
+      - name: Commit changes & push
+        shell: bash
+        run: |
+          cd nitro-sniper
+          sleep 1s
           git init
           git remote add origin https://heroku-hate-club:${{ secrets.GH_TOKEN }}@github.com/heroku-hate-club/${{ env.repoName }}
           git add .
