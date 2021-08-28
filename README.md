@@ -10,7 +10,8 @@
 
 <p align="center">
    A lightweight, fast and efficient discord nitro sniper, giveaway sniper & invite sniper. <br />
-   :warning: I recommend turning off the invite sniper for now as it will lock your account behind a phone/email verification screen or get it terminated.
+   
+   <b>:warning: I recommend turning off the invite sniper for now as it will lock your account behind a phone/email verification screen or get it terminated.</b>
    <img src="https://media.wtf/11603354" />
 </p>
 
