@@ -194,4 +194,4 @@ https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-I
 - Running more than one instance or different snipers is an easy way to get your account deactivated.
 - Before using, consider the moral implications of stealing gifts from communities you have nothing to do with.
 
-> If you enjoy my projects, please consider starring the repo :)
+> If you enjoy my projects, please consider leaving a :star: in the top right on the repo :)
