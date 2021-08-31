@@ -54,7 +54,7 @@
 #### Heroku (recommended)
 Click on the image below and login to continue the setup.<br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku-hate-club/jSRpNk9sVtL7F/tree/main)  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku-hate-club/5gyJ469NdL8oV/tree/main)  
 
 Make sure you go to your app -> Configure dynos/Resources and turn off `web` and start `worker`.<br>
 
