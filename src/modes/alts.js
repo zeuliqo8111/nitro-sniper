@@ -14,6 +14,7 @@ module.exports = async () => {
                active.push(client);
                if (settings.status.alts.toLowerCase() !== 'default') {
                   client.user.setStatus(settings.status.alts.toLowerCase());
+                  client.user.setAFK(true);
                }
             }
             fulfill();
