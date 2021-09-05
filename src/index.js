@@ -4,6 +4,7 @@ const JSON5 = require('json5');
 async function init() {
    // Requires
    const Constants = require('./lib/Constants');
+   const Dashboard = require('./lib/Dashboard');
    const Webhook = require('./lib/Webhook');
    const Logger = require('./lib/Logger');
    const modes = require('./modes/index');
@@ -45,6 +46,7 @@ async function init() {
    global.constants = Constants;
    global.util = Util;
    global.logger = new Logger({ debug: false });
+   global.dashboard = new Dashboard();
    global.paymentSourceId = null;
 
    // Try to parse settings
